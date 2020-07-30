@@ -10,3 +10,14 @@ takes an integer k as cli argument and announces the current time (time.time()) 
 ## timer.py
 
 takes integers d and k as cli arguments and announces the time passed and time remaining for the next d minutes every k minutes
+
+## setup
+
+```
+python3 -m venv venv
+
+source venv/bin/activate
+
+pip install requirements.txt
+
+```
